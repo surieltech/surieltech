@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Web`**
 
-Me chamo Suriel Gomes, tenho 21 anos e sou natural do Amazonas. Concluí o ensino médio no SESI, com o curso técnico em Desenvolvimento em Sistemas pelo SENAI. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Faculdade Martha Falcão, mas já possuo graduação em História pela UFAM. Sou um entusiasta por tecnologia e por experiência do usuário, então tento sempre pensar em propostas de códigos que possam ser úteis para algum cenário. 
+Me chamo Suriel Gomes, tenho 21 anos e sou natural de Manaus, no Amazonas. Concluí o ensino médio no SESI, com o curso técnico em Desenvolvimento em Sistemas pelo SENAI. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Faculdade Martha Falcão, mas já possuo graduação em História pela UFAM. Sou um entusiasta por tecnologia e por experiência do usuário, então tento sempre pensar em propostas de códigos que possam ser úteis para algum cenário real. 
 
 ---
 
