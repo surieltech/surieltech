@@ -103,7 +103,3 @@ Me chamo Suriel Gomes, tenho 21 anos e sou natural de Manaus, no Amazonas. Concl
   />
 
 </p>
-
-<p align="right">
-  <img src="https://github.com/surieltech/surieltech/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
