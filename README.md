@@ -69,13 +69,20 @@ Me chamo Suriel Gomes, tenho 21 anos e sou natural de Manaus, no Amazonas. Concl
 />
 <img 
     align="left" 
+    alt="React" 
+    title="React"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+/>
+<img 
+    align="left" 
     alt="Angular" 
     title="Angular"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" 
 />
-
 <img 
     align="left" 
     alt="Python" 
@@ -84,7 +91,6 @@ Me chamo Suriel Gomes, tenho 21 anos e sou natural de Manaus, no Amazonas. Concl
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
-
 <img 
    align="left" 
     alt="C" 
@@ -92,7 +98,6 @@ Me chamo Suriel Gomes, tenho 21 anos e sou natural de Manaus, no Amazonas. Concl
     width="30px" 
     style="padding-right: 10px;" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
-
 <img 
     align="left" 
     alt="Git" 
