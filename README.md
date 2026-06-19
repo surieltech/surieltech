@@ -13,7 +13,7 @@
 
 **`Desenvolvedor Web`**
 
-Me chamo Suriel Gomes, tenho 21 anos e sou natural de Manaus, no Amazonas. Concluí o ensino médio no SESI, com o curso técnico em Desenvolvimento em Sistemas pelo SENAI. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Faculdade Martha Falcão, mas já possuo graduação em História pela UFAM. Além disso, também estou fazendo um curso de capacitação em Desenvolvimento Web Full-Stack pelo INDT. Sou um entusiasta por tecnologia e por experiência do usuário, então tento sempre pensar em propostas de códigos que possam ser úteis para algum cenário real. 
+Me chamo Suriel Gomes, tenho 22 anos e sou natural de Manaus, no Amazonas. Concluí o ensino médio no SESI, com o curso técnico em Desenvolvimento em Sistemas pelo SENAI. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Faculdade Martha Falcão/Unifavip, mas já possuo graduação em História pela UFAM. Além disso, também estou em constante aprendizado realizando cursos da área. Sou um entusiasta por tecnologia e por experiência do usuário, então tento sempre pensar em propostas de códigos que possam ser úteis para algum cenário real. Tenho interesse em Desenvolvimento Web FullStack, Desenvolvimento Mobile, Visão Computacional e Análise de Dados.
 
 ---
 
@@ -106,6 +106,14 @@ Me chamo Suriel Gomes, tenho 21 anos e sou natural de Manaus, no Amazonas. Concl
     width="30px" 
     style="padding-right: 10px;" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+<img 
+    align="left" 
+    alt="Kotlin" 
+    title="Kotlin"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" 
+/>
 <img 
     align="left" 
     alt="Git" 
